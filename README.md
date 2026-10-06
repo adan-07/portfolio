@@ -1,12 +1,13 @@
-# 🚀 Adan Mudassar — Portfolio
-
-Welcome to my personal developer portfolio! I am an **Applied AI & Automation Engineer** and **Full-Stack Developer** dedicated to building production-grade solutions rather than just simple prototypes.
-
-### 💡 What I Do:
-* **AI & Automation:** Design autonomous tool-calling AI agents using n8n, Gemini, and OpenAI that integrate directly with business workflows (WhatsApp Cloud API, Gmail, Google Sheets).
-* **Full-Stack Platforms:** Develop secure, scalable web applications with React, Firebase, and Supabase — featuring Row Level Security (RLS), atomic concurrency handling, and real-time streaming.
-* **Core Engineering:** Grounded in strong computer science fundamentals (BSCS at University of the Punjab), C++, OOP, and relational database systems (PostgreSQL, MySQL)[cite: 3].
-
-🌐 **Live Website:** [adanmudassar.netlify.app](https://adanmudassar.netlify.app/)
-📫 **Contact:** [adan.mudassar07@gmail.com](mailto:adan.mudassar07@gmail.com)
-```[cite: 3]
+⚡ Adan MudassarApplied AI & Automation Engineer | Full-Stack DeveloperBuilding autonomous multi-tool agents and production-grade secure web platforms.
+📌 Executive SummaryI am an Applied AI & Automation Engineer and Full-Stack Developer focused on building production-grade, reliable solutions rather than simple prototypes. My expertise spans engineering autonomous tool-calling AI workflows, implementing zero double-booking atomic database constraints, and architecting end-to-end encrypted real-time web applications.  
+🛠️ Core Capabilities & Technology StackDomainFocus AreasTechnologies & FrameworksAgentic AutomationAutonomous workflows, tool-calling logic, webhook pipelinesn8n, WhatsApp Cloud API, Gmail API, Google SheetsLLM OrchestrationIntent routing, RAG architectures, prompt engineeringGemini API, OpenAI API, Groq (Llama 3.1)Full-Stack WebResponsive interfaces, single-page apps, reactive stateReact, Vite, Tailwind CSS, JavaScript (ES6+), PHPBackend & SecurityRow Level Security (RLS), RBAC, atomic concurrency, live dataSupabase, PostgreSQL, Firebase (Firestore/Auth), Cloudflare WorkersCS FundamentalsObject-Oriented Programming (OOP), normalized database schemasC++, MySQL (3NF), SQLite, Git/GitHub
+🚀 Key Featured Projects1. MediBook — Doctor Appointment PlatformStack: React (Vite), Supabase, PostgreSQLArchitecture: Full-stack healthcare booking platform secured with granular Row Level Security (RLS) and RBAC. Prevents double-booking via atomic Postgres locking mechanisms and features real-time end-to-end AES-256 encrypted chat between patients and physicians.2. AI WhatsApp Business AgentStack: n8n, WhatsApp Cloud API, Gemini API, Google SheetsArchitecture: Multi-turn conversational agent parsing incoming natural language to verify live inventory, answer FAQs, and update order statuses in Google Sheets with a 96%+ validated accuracy rate.3. Nexus — End-to-End Encrypted ChatStack: CryptoJS (AES), Firebase Auth, FirestoreArchitecture: Zero-knowledge real-time messaging application where payloads undergo client-side AES encryption before transit, keeping ciphertext entirely unreadable at the database layer.4. AI Multi-Tool Personal AssistantStack: n8n, OpenAI API, Google WorkspaceArchitecture: Autonomous agent that reasons across Google Calendar, Gmail, and Google Sheets within a single conversation session to synthesize actionable briefings.
+📂 Repository File StructurePlaintextportfolio/
+├── index.html              # Core application structure & verified SEO tags
+├── style.css               # Design system, variables, and responsive layouts
+├── script.js               # Reactive animations and EmailJS handlers
+├── profile.jpg             # Production profile asset
+├── Adan_Mudassar_CV.pdf    # Downloadable curriculum vitae
+├── sitemap.xml             # Search engine crawl roadmap
+└── robots.txt              # Search bot indexing directives
+🤝 Let's ConnectAvailable for workflow automation engineering and production web development:adan.mudassar07@gmail.com • WhatsApp Direct
